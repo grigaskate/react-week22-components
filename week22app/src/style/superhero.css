@@ -1,4 +1,13 @@
 .card-superhero{
+    margin-bottom: 30px;
     padding: 20px;
-    width: 80%;
+    border: 1px solid rgb(210, 209, 209);
+    border-radius: 5px;
+    max-width: 90%;
 }
+
+.image-superhero {
+    max-width: 90%;
+    height: auto;
+    object-fit: contain;
+  }

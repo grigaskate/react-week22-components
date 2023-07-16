@@ -10,7 +10,7 @@ function Superhero(props) {
         <p className="superhero-alterego">Альтер эго: {props.alterego}</p>
         <p className="superhero-occupation">Род деятельности: {props.occupation}</p>
         <p className="superhero-friends">Друзья: {props.friends}</p>
-        <p className="superhero-superpowers">Суперсилы: {props.superpowers}</p>
+        <p className="superhero-superpowers image-superhero">Суперсилы: {props.superpowers}</p>
         <img className="superhero-url" src ={props.url}/>
         <p className="superhero-info">{props.info}</p>
     </div>
