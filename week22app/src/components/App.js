@@ -1,6 +1,6 @@
 import React from 'react';
 import '../style/App.css';
-import Superhero from './superhero';
+import Superhero from './Superhero';
 
 const superheroes = [
   {

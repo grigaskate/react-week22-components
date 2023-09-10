@@ -1,4 +1,4 @@
-import '../style/superhero.css';
+import '../style/Superhero.css';
 
 
 
